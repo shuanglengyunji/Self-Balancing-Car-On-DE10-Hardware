@@ -1,0 +1,44 @@
+# system info soc_system on 2017.11.03.17:25:55
+system_info:
+name,value
+DEVICE,5CSEBA6U23I7
+DEVICE_FAMILY,Cyclone V
+GENERATION_ID,1509701138
+#
+#
+# Files generated for soc_system on 2017.11.03.17:25:55
+files:
+filepath,kind,attributes,module,is_top
+simulation/soc_system.v,VERILOG,,soc_system,true
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+soc_system.adc_ltc2308_0,soc_system_adc_ltc2308_0
+soc_system.button_pio,soc_system_button_pio
+soc_system.dc_motor_left,soc_system_dc_motor_left
+soc_system.dc_motor_right,soc_system_dc_motor_left
+soc_system.dipsw_pio,soc_system_dipsw_pio
+soc_system.f2sdram_only_master,soc_system_f2sdram_only_master
+soc_system.fpga_only_master,soc_system_f2sdram_only_master
+soc_system.hps_only_master,soc_system_f2sdram_only_master
+soc_system.hps_0,soc_system_hps_0
+soc_system.ir_rx,TERASIC_IRM
+soc_system.jtag_uart,soc_system_jtag_uart
+soc_system.led_pio,soc_system_led_pio
+soc_system.motor_measure_left,soc_system_motor_measure_left
+soc_system.motor_measure_right,soc_system_motor_measure_left
+soc_system.mpu_i2c,i2c_opencores
+soc_system.onchip_memory2_0,soc_system_onchip_memory2_0
+soc_system.pll_0,soc_system_pll_0
+soc_system.sonic_distance,soc_system_sonic_distance
+soc_system.sysid_qsys,soc_system_sysid_qsys
+soc_system.uart_bt,soc_system_uart_bt
+soc_system.mm_interconnect_0,soc_system_mm_interconnect_0
+soc_system.mm_interconnect_1,soc_system_mm_interconnect_1
+soc_system.mm_interconnect_2,soc_system_mm_interconnect_2
+soc_system.irq_mapper,soc_system_irq_mapper
+soc_system.irq_mapper_001,soc_system_irq_mapper_001
+soc_system.rst_controller,altera_reset_controller
+soc_system.rst_controller_001,altera_reset_controller
+soc_system.rst_controller_002,altera_reset_controller

@@ -1,0 +1,189 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "MPU_SCL_SCLK",
+					"strict" : false
+				},
+				{
+					"name" : "MTR_PWMA",
+					"strict" : false
+				},
+				{
+					"name" : "MTRR_P",
+					"strict" : false
+				},
+				{
+					"name" : "MTRR_N",
+					"strict" : false
+				},
+				{
+					"name" : "MTR_PWMB",
+					"strict" : false
+				},
+				{
+					"name" : "MTRL_P",
+					"strict" : false
+				},
+				{
+					"name" : "MTRL_N",
+					"strict" : false
+				},
+				{
+					"name" : "SONIC_TRIGGER",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_CONVST",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SDI",
+					"strict" : false
+				},
+				{
+					"name" : "ESP32_UART0_TX",
+					"strict" : false
+				},
+				{
+					"name" : "LED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[7]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "MPU_SDA_SDI",
+					"strict" : false
+				},
+				{
+					"name" : "SW[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SW[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CLK2_50",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CLK1_50",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ESP32_UART0_RX",
+					"strict" : false
+				},
+				{
+					"name" : "MTRL_A",
+					"strict" : false
+				},
+				{
+					"name" : "MTRL_B",
+					"strict" : false
+				},
+				{
+					"name" : "MTRR_A",
+					"strict" : false
+				},
+				{
+					"name" : "MTRR_B",
+					"strict" : false
+				},
+				{
+					"name" : "IR_RXD",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_SDO",
+					"strict" : false
+				},
+				{
+					"name" : "SONIC_ECHO",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

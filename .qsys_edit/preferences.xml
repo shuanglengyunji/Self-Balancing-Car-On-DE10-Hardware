@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="271" />
+   <irq preferredWidth="47" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Project,Project/Terasic,Library/Processors and Peripherals/Inter-Process Communication,Library/Processors and Peripherals/Peripherals,Library/Processors and Peripherals/Hard Processor Systems,Project/Interface Protocols/Serial,Project/Interface Protocols,Library,Library/Processors and Peripherals" />
+ <window width="1936" height="1056" x="-8" y="-8" />
+</preferences>

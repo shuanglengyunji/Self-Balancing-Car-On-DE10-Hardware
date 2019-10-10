@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="simulation/soc_system.v" type="VERILOG" />
+ <topLevel name="soc_system" />
+ <deviceFamily name="cyclonev" />
+ <modelMap controllerPath="soc_system.hps_0" modelPath="soc_system.hps_0" />
+ <modelMap
+   controllerPath="soc_system.hps_0.fpga_interfaces"
+   modelPath="soc_system.hps_0.fpga_interfaces" />
+ <modelMap
+   controllerPath="soc_system.hps_0.hps_io"
+   modelPath="soc_system.hps_0.hps_io" />
+ <modelMap
+   controllerPath="soc_system.onchip_memory2_0"
+   modelPath="soc_system.onchip_memory2_0" />
+</simPackage>

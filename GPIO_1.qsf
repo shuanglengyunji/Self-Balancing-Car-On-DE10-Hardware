@@ -1,0 +1,9 @@
+
+set_location_assignment PIN_Y15 -to GPIO_1[0]
+set_location_assignment PIN_AC24 -to GPIO_1[1]
+set_location_assignment PIN_AA15 -to GPIO_1[2]
+set_location_assignment PIN_AD26 -to GPIO_1[3]
+set_location_assignment PIN_AG28 -to GPIO_1[4]
+set_location_assignment PIN_AF28 -to GPIO_1[5]
+set_location_assignment PIN_AE25 -to GPIO_1[6]
+set_location_assignment PIN_AF27 -to GPIO_1[7]
